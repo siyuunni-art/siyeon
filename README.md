@@ -7,7 +7,7 @@
 
 <p align="center">
 
-I'm a public economics researcher with a microeconomic focus, studying how tax and fiscal policies shape the behavior and decision-making of firms and foundations. I conduct rigorous empirical analysis using firm-level microdata and applied econometrics to support crisis response and evidence-based policymaking.
+I'm a public economics researcher with a microeconomic focus, studying how tax and fiscal policies shape the behavior and decision-making of firms and foundations. I conduct rigorous empirical analysis using firm-level microdata and applied econometrics to support crisis response and evidence-based decision-making.
 
 🧩 GitHub Use  
 · Empirical analysis code using firm-level financial and policy data  
@@ -57,13 +57,11 @@ I welcome collaborators interested in data-driven research and policy analysis m
 ---
 
 ### 🔍 Research Interests
-- Corporate behavior under tax and fiscal policy  
-- Public economics and corporate taxation  
-- Economic incentives, regulation, and firm responses  
-- Welfare & nonprofit sector finance and policy evaluation
-- Public Economics with a Microeconomic Focus
-- Corporate taxation and firm financial behavior
-- Welfare and nonprofit economics, and policy evaluation  
+- Corporate behavior under tax and fiscal policy
+- Public economics and corporate taxation
+- Economic incentives, regulation, and firm responses
+- Public economics from a microeconomic perspective
+- Finance and policy evaluation in the welfare and nonprofit sectors
 
 ### 🏆 Best Paper Award and Report
 - Best Paper Award (Early-Career Researcher), 2025, Korean Association for Nonprofit Studies (Fall Conference)Award: The Effect of Corporate Tax Burden on Corporate Giving: A Tobit–Machine Learning Hybrid Approach
@@ -71,7 +69,7 @@ I welcome collaborators interested in data-driven research and policy analysis m
 
 ### 🧠 Data & Methods
 - Firm-level panel data (KOSPI / KOSDAQ)  
-- Econometric models: FE / RE / Tobit  
+- Econometric models: FE / RE / Tobit / DID / Machine Learning
 - Quasi-experimental policy analysis  
 - Python-based analysis (pandas, numpy, statsmodels)
 - Jupyter Notebook for interactive coding and visualization
@@ -109,11 +107,6 @@ I welcome collaborators interested in data-driven research and policy analysis m
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyuunni-art&show_icons=true&locale=en"
-       alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siyuunni-art&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisiyeon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2026) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
